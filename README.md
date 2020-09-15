@@ -78,7 +78,7 @@
 
 </details>
 
-[aws-cda]: https://aws.amazon.com/de/certification/certification-prep/?src=certification-faqs
+[aws-cda]: https://aws.amazon.com/certification/certification-prep/?nc1=h_ls
 [youtube]: https://youtube.com/channel/UCTfa5NSGeVLmcHYPRu9qh_g
 [linkedin]: https://linkedin.com/in/yuqiu-ge-06a808b4/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
