@@ -2,11 +2,11 @@
 
 ## I'm a Husband and Developer!
 
-- 🔭 I’m currently working on the [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to and play table tennis
+<!--- 🌱 I’m currently learning everything 🤣-->
+- 🔭 I’m currently working on the [AWS CDA certification][aws-cda]!
+- 👯 I’m looking to collaborate with others
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play table tennis and badminton
 
 ### Connect with me:
   
@@ -60,6 +60,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
+- [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 ➡️ [more blog posts...](https://www.it-economics.de/en)
 
 ---
@@ -84,6 +85,7 @@
 
 </details>
 
+[aws-cda]: https://aws.amazon.com/de/certification/certification-prep/?src=certification-faqs
 [youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
