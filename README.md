@@ -61,7 +61,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
-➡️ [more blog posts...](https://www.it-economics.de/en)
+
+➡️ [more blog posts from it-economics...](https://www.it-economics.de/en)
 
 ---
 
@@ -86,8 +87,8 @@
 </details>
 
 [aws-cda]: https://aws.amazon.com/de/certification/certification-prep/?src=certification-faqs
-[youtube]: https://youtube.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[youtube]: https://youtube.com/channel/UCTfa5NSGeVLmcHYPRu9qh_g
+[linkedin]: https://linkedin.com/in/yuqiu-ge-06a808b4/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
