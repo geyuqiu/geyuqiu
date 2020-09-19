@@ -22,7 +22,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/java.svg" />
 <img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/spring.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -79,7 +79,7 @@
 
 </details>
 
-[aws-cda]: https://aws.amazon.com/de/certification/certification-prep/?src=certification-faqs
+[aws-cda]: https://aws.amazon.com/certification/certification-prep/?nc1=h_ls
 [youtube]: https://youtube.com/channel/UCTfa5NSGeVLmcHYPRu9qh_g
 [linkedin]: https://linkedin.com/in/yuqiu-ge-06a808b4/
 [xing]: https://www.xing.com/profile/Yuqiu_Ge2
