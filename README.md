@@ -10,8 +10,9 @@
 
 ### Connect with me:
   
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Yuqiu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Yuqiu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Yuqiu | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 
 <br />
 
@@ -74,13 +75,14 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=geyuqiu&show_icons=true&hide_border=true" />
+  <img align="left" alt="Yuqiu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=geyuqiu&show_icons=true&hide_border=true" />
 
 </details>
 
 [aws-cda]: https://aws.amazon.com/de/certification/certification-prep/?src=certification-faqs
 [youtube]: https://youtube.com/channel/UCTfa5NSGeVLmcHYPRu9qh_g
 [linkedin]: https://linkedin.com/in/yuqiu-ge-06a808b4/
+[xing]: https://www.xing.com/profile/Yuqiu_Ge2
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
