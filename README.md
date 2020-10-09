@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com//ZouYouShun/ngx-hm-carousel/issues/30) in [ZouYouShun/ngx-hm-carousel](https://github.com//ZouYouShun/ngx-hm-carousel)
-2. 🗣 Commented on [#41](https://github.com//geyuqiu/SfoGateAssignmentProblem/issues/41) in [geyuqiu/SfoGateAssignmentProblem](https://github.com//geyuqiu/SfoGateAssignmentProblem)
-3. ❗️ Closed issue [#4](https://github.com//geyuqiu/SfoGateAssignmentProblem/issues/4) in [geyuqiu/SfoGateAssignmentProblem](https://github.com//geyuqiu/SfoGateAssignmentProblem)
-4. 💪 Opened PR [#42](https://github.com//geyuqiu/SfoGateAssignmentProblem/pull/42) in [geyuqiu/SfoGateAssignmentProblem](https://github.com//geyuqiu/SfoGateAssignmentProblem)
-5. 🎉 Merged PR [#42](https://github.com//geyuqiu/SfoGateAssignmentProblem/pull/42) in [geyuqiu/SfoGateAssignmentProblem](https://github.com//geyuqiu/SfoGateAssignmentProblem)
+1. ❗️ Opened issue [#30](https://github.com/ZouYouShun/ngx-hm-carousel/issues/30) in [ZouYouShun/ngx-hm-carousel](https://github.com/ZouYouShun/ngx-hm-carousel)
+2. 🗣 Commented on [#41](https://github.com/geyuqiu/SfoGateAssignmentProblem/issues/41) in [geyuqiu/SfoGateAssignmentProblem](https://github.com/geyuqiu/SfoGateAssignmentProblem)
+3. ❗️ Closed issue [#4](https://github.com/geyuqiu/SfoGateAssignmentProblem/issues/4) in [geyuqiu/SfoGateAssignmentProblem](https://github.com/geyuqiu/SfoGateAssignmentProblem)
+4. 💪 Opened PR [#42](https://github.com/geyuqiu/SfoGateAssignmentProblem/pull/42) in [geyuqiu/SfoGateAssignmentProblem](https://github.com/geyuqiu/SfoGateAssignmentProblem)
+5. 🎉 Merged PR [#42](https://github.com/geyuqiu/SfoGateAssignmentProblem/pull/42) in [geyuqiu/SfoGateAssignmentProblem](https://github.com/geyuqiu/SfoGateAssignmentProblem)
 <!--END_SECTION:activity-->
 
 </details>
