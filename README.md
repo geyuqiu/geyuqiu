@@ -3,7 +3,8 @@
 ## I'm a Husband and Developer!
 
 <!--- 🌱 I’m currently learning everything 🤣-->
-- 🔭 I’m currently working on the [AWS CDA certification][aws-cda]!
+- 🔭 I’m currently working on the [java-oca-8][java-oca-8]!
+- 💪 I just passed the [AWS CDA][aws-cda]!
 - 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play table tennis and badminton
@@ -79,6 +80,7 @@
 
 </details>
 
+[java-oca-8]: https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808
 [aws-cda]: https://aws.amazon.com/certification/certification-prep/?nc1=h_ls
 [youtube]: https://youtube.com/channel/UCTfa5NSGeVLmcHYPRu9qh_g
 [linkedin]: https://linkedin.com/in/yuqiu-ge-06a808b4/
