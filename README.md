@@ -55,7 +55,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How pass AWS Certified Developer Associate (AWS CDA)](https://dev.to/geyuqiu/how-pass-aws-certified-developer-associate-aws-cda-4n6p)
+- [How to pass AWS Certified Developer Associate (AWS CDA)](https://dev.to/geyuqiu/how-pass-aws-certified-developer-associate-aws-cda-4n6p)
 <!-- BLOG-POST-LIST:END -->
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 
