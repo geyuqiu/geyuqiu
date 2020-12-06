@@ -7,7 +7,7 @@
 - 💪 I just passed the [AWS CDA][aws-cda]!
 - 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: Write more blogs
-- ⚡ Fun fact: I love to play 🏓 and 🏸
+- Fun fact: I love to play 🏓 and 🏸
 - I have presented [1 tech talk](https://geyuqiu.github.io/jhipster-in-action/) in english
 - I have attended a few conferences such as [JCon](https://jcon.one/de/), [AWS DEV Day](https://pages.awscloud.com/EMEA_FIELD_WEBINAR_DevdayMAD_20201015_7010z000001LtjX_On-Demand-Confirmation.html?sc_channel=em&sc_campaign=emea20_devdayonlineq4&sc_medium=em_309568&sc_content=REG_event_ev_field&sc_geo=emea&sc_country=mult&sc_outcome=reg&sc_publisher=aws&trkCampaign=emea20_devdayonlineq4&trk=em_thankyousurvey_loc-309568_emea20_devdayonlineq4), 
 - I speak 3 languages fluently: 🇺🇸, 🇩🇪 and 🇨🇳
@@ -64,10 +64,9 @@
 <!-- BLOG-POST-LIST:END -->
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 
-➡️ [more blog posts from it-economics...](https://www.it-economics.de/en)
 
 ---
-
+Recently, I am working on private git repositories, that's where you may not see many github activities from me 😀 
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -83,9 +82,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-
   <img align="left" alt="Yuqiu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=geyuqiu&show_icons=true&hide_border=true" />
-
 </details>
 
 [isqab-foundation-level]: https://www.isaqb.org/documents/
@@ -98,3 +95,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+Stay safe and keep away from 👑🦠 !
