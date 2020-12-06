@@ -6,11 +6,11 @@
 - 🔭 I’m currently working on the [isqab-foundation-level][isqab-foundation-level]!
 - 💪 I just passed the [AWS CDA][aws-cda]!
 - 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play table tennis and badminton
+- 🥅 2021 Goals: Write more blogs
+- ⚡ Fun fact: I love to play 🏓 and 🏸
 - I have presented [1 tech talk](https://geyuqiu.github.io/jhipster-in-action/) in english
 - I have attended a few conferences such as [JCon](https://jcon.one/de/), [AWS DEV Day](https://pages.awscloud.com/EMEA_FIELD_WEBINAR_DevdayMAD_20201015_7010z000001LtjX_On-Demand-Confirmation.html?sc_channel=em&sc_campaign=emea20_devdayonlineq4&sc_medium=em_309568&sc_content=REG_event_ev_field&sc_geo=emea&sc_country=mult&sc_outcome=reg&sc_publisher=aws&trkCampaign=emea20_devdayonlineq4&trk=em_thankyousurvey_loc-309568_emea20_devdayonlineq4), 
-- I speak 3 languages fluently: English, German and Chinese
+- I speak 3 languages fluently: 🇺🇸, 🇩🇪 and 🇨🇳
 
 
 ### Connect with me:
