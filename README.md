@@ -3,8 +3,8 @@
 ## I'm a Husband and Developer!
 
 <!--- 🌱 I’m currently learning everything 🤣-->
-- 🔭 I’m currently working on the [isqab-foundation-level][isqab-foundation-level]!
-- 💪 I just passed the [AWS CDA][aws-cda]!
+- 🔭 I’m currently working on nothing !
+- 💪 I just passed the [isqab-foundation-level][isqab-foundation-level]!
 - 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: Write more blogs
 - Fun fact: I love to play 🏓 and 🏸
