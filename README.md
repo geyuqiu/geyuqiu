@@ -53,6 +53,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 react code example fixes](https://www.youtube.com/watch?v=sQpbILf0GFM)
 - [barchart e2e spec ts](https://www.youtube.com/watch?v=wXQk33RPQ1w)
 - [gate assignments e2e spec ts](https://www.youtube.com/watch?v=gRv1o3m5lR0)
 - [React + Spring Boot](https://www.youtube.com/watch?v=JWPPF-FNgq4)
