@@ -1,4 +1,4 @@
-### Hi there, I'm Yuqiu 👋
+### Hi there, I'm Yuqiu (Yuchew - chew like in chewing gum) 👋
 
 ## I'm a Husband and Developer!
 
