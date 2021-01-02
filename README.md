@@ -56,6 +56,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 react code example fixes](https://www.youtube.com/watch?v=sQpbILf0GFM)
 - [barchart e2e spec ts](https://www.youtube.com/watch?v=wXQk33RPQ1w)
 - [gate assignments e2e spec ts](https://www.youtube.com/watch?v=gRv1o3m5lR0)
 - [React + Spring Boot](https://www.youtube.com/watch?v=JWPPF-FNgq4)
@@ -82,11 +83,11 @@ Recently, I am working on private git repositories, that's where you may not see
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/ZouYouShun/ngx-hm-carousel/issues/30) in [ZouYouShun/ngx-hm-carousel](https://github.com/ZouYouShun/ngx-hm-carousel)
-2. 🗣 Commented on [#41](https://github.com/geyuqiu/SfoGateAssignmentProblem/issues/41) in [geyuqiu/SfoGateAssignmentProblem](https://github.com/geyuqiu/SfoGateAssignmentProblem)
-3. ❗️ Closed issue [#4](https://github.com/geyuqiu/SfoGateAssignmentProblem/issues/4) in [geyuqiu/SfoGateAssignmentProblem](https://github.com/geyuqiu/SfoGateAssignmentProblem)
-4. 💪 Opened PR [#42](https://github.com/geyuqiu/SfoGateAssignmentProblem/pull/42) in [geyuqiu/SfoGateAssignmentProblem](https://github.com/geyuqiu/SfoGateAssignmentProblem)
-5. 🎉 Merged PR [#42](https://github.com/geyuqiu/SfoGateAssignmentProblem/pull/42) in [geyuqiu/SfoGateAssignmentProblem](https://github.com/geyuqiu/SfoGateAssignmentProblem)
+1. 🗣 Commented on [#140](https://github.com/DethAriel/ng-recaptcha/issues/140) in [DethAriel/ng-recaptcha](https://github.com/DethAriel/ng-recaptcha)
+2. ❗️ Opened issue [#267](https://github.com/Appboy/appboy-ios-sdk/issues/267) in [Appboy/appboy-ios-sdk](https://github.com/Appboy/appboy-ios-sdk)
+3. ❗️ Opened issue [#199](https://github.com/alanshaw/markdown-pdf/issues/199) in [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf)
+4. 🗣 Commented on [#146](https://github.com/alanshaw/markdown-pdf/issues/146) in [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf)
+5. 🗣 Commented on [#5047](https://github.com/cypress-io/cypress/issues/5047) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
 <!--END_SECTION:activity-->
 
 </details>
