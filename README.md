@@ -56,6 +56,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [naming convention of (junit) tests](https://www.youtube.com/watch?v=fIfa-qW_6h8)
 - [3 react code example fixes](https://www.youtube.com/watch?v=sQpbILf0GFM)
 - [barchart e2e spec ts](https://www.youtube.com/watch?v=wXQk33RPQ1w)
 - [gate assignments e2e spec ts](https://www.youtube.com/watch?v=gRv1o3m5lR0)
