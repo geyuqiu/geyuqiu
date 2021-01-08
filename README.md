@@ -70,6 +70,7 @@
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
+- [Nice Experience with a Freelancing Ionic/Angular project](https://dev.to/geyuqiu/nice-experience-with-a-freelancing-ionic-angular-project-1pd7)
 - [Leetcode 102 best practices](https://dev.to/geyuqiu/leetcode-102-best-practices-37io)
 - [Leetcode 101](https://dev.to/geyuqiu/leetcode-101-4c0j)
 - [Leetcode TLE explained](https://dev.to/geyuqiu/leetcode-tle-explained-2eah)
