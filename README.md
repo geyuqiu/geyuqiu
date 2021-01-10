@@ -24,8 +24,9 @@
 
 <br />
 
-### Languages and Tools:
+### Languages, Frameworks and Tools:
 
+Main languages and frameworks
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/java.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
@@ -35,7 +36,7 @@
 
 <br />
 <br />
-
+Other tools: 
 <img align="left" alt="Cypress" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_cypress.png?raw=true" />
 <img align="left" alt="Jasmine" width="26px" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jasmine.png?raw=true" />
 <img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/intellijidea.svg" />
