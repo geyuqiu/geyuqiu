@@ -57,6 +57,7 @@ Other tools:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [naming convention of (junit) tests](https://www.youtube.com/watch?v=fIfa-qW_6h8)
 - [3 react code example fixes](https://www.youtube.com/watch?v=sQpbILf0GFM)
 - [barchart e2e spec ts](https://www.youtube.com/watch?v=wXQk33RPQ1w)
 - [gate assignments e2e spec ts](https://www.youtube.com/watch?v=gRv1o3m5lR0)
@@ -70,6 +71,7 @@ Other tools:
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
+- [Nice Experience with a Freelancing Ionic/Angular project](https://dev.to/geyuqiu/nice-experience-with-a-freelancing-ionic-angular-project-1pd7)
 - [Leetcode 102 best practices](https://dev.to/geyuqiu/leetcode-102-best-practices-37io)
 - [Leetcode 101](https://dev.to/geyuqiu/leetcode-101-4c0j)
 - [Leetcode TLE explained](https://dev.to/geyuqiu/leetcode-tle-explained-2eah)
@@ -84,11 +86,11 @@ Recently, I am working on private git repositories, that's where you may not see
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/DethAriel/ng-recaptcha/issues/140) in [DethAriel/ng-recaptcha](https://github.com/DethAriel/ng-recaptcha)
-2. ❗️ Opened issue [#267](https://github.com/Appboy/appboy-ios-sdk/issues/267) in [Appboy/appboy-ios-sdk](https://github.com/Appboy/appboy-ios-sdk)
-3. ❗️ Opened issue [#199](https://github.com/alanshaw/markdown-pdf/issues/199) in [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf)
-4. 🗣 Commented on [#146](https://github.com/alanshaw/markdown-pdf/issues/146) in [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf)
-5. 🗣 Commented on [#5047](https://github.com/cypress-io/cypress/issues/5047) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+1. ❗️ Opened issue [#14439](https://github.com/cypress-io/cypress/issues/14439) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+2. ❗️ Opened issue [#14438](https://github.com/cypress-io/cypress/issues/14438) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+3. 🗣 Commented on [#140](https://github.com/DethAriel/ng-recaptcha/issues/140) in [DethAriel/ng-recaptcha](https://github.com/DethAriel/ng-recaptcha)
+4. ❗️ Opened issue [#267](https://github.com/Appboy/appboy-ios-sdk/issues/267) in [Appboy/appboy-ios-sdk](https://github.com/Appboy/appboy-ios-sdk)
+5. ❗️ Opened issue [#199](https://github.com/alanshaw/markdown-pdf/issues/199) in [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf)
 <!--END_SECTION:activity-->
 
 </details>
