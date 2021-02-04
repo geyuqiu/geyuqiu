@@ -15,6 +15,9 @@
     - Certified Scrum Master
     - AWS Developer Associate
     - ISAQB Foundation Level
+- latest projects: 
+    - https://kfz-schaden-melden.allianz.de/
+    - http://direkthilfe.allianz.de/
 
 ### Connect with me:
   
