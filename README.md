@@ -77,11 +77,11 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript vs JaveScript](https://dev.to/geyuqiu/typescript-vs-javescript-4jmi)
+- [List of great Trainings for a Java/Typescript Developer](https://dev.to/geyuqiu/list-of-great-trainings-for-a-java-typescript-developer-2gk2)
 - [Nice Experience with a Freelancing Ionic/Angular project](https://dev.to/geyuqiu/nice-experience-with-a-freelancing-ionic-angular-project-1pd7)
 - [Leetcode 102 best practices](https://dev.to/geyuqiu/leetcode-102-best-practices-37io)
 - [Leetcode 101](https://dev.to/geyuqiu/leetcode-101-4c0j)
-- [Leetcode TLE explained](https://dev.to/geyuqiu/leetcode-tle-explained-2eah)
-- [How I passed AWS Certified Developer Associate (AWS CDA) mostly using open source and free materials](https://dev.to/geyuqiu/how-pass-aws-certified-developer-associate-aws-cda-4n6p)
 <!-- BLOG-POST-LIST:END -->
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 
