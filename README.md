@@ -17,7 +17,7 @@
     - ISAQB Foundation Level
 - latest projects: 
     - https://kfz-schaden-melden.allianz.de/
-    - http://direkthilfe.allianz.de/
+    - https://direkthilfe.allianz.de/
 
 ### Connect with me:
   
