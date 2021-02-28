@@ -77,11 +77,11 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript vs JaveScript](https://dev.to/geyuqiu/typescript-vs-javescript-4jmi)
+- [TypeScript vs JavaScript](https://medium.com/@yuqiuge/typescript-vs-javascript-309e3937e300?source=rss-8fade33fd493------2)
+- [TypeScript vs JavaScript](https://dev.to/geyuqiu/typescript-vs-javescript-4jmi)
 - [List of great Trainings for a Java/Typescript Developer](https://dev.to/geyuqiu/list-of-great-trainings-for-a-java-typescript-developer-2gk2)
 - [Nice Experience with a Freelancing Ionic/Angular project](https://dev.to/geyuqiu/nice-experience-with-a-freelancing-ionic-angular-project-1pd7)
 - [Leetcode 102 best practices](https://dev.to/geyuqiu/leetcode-102-best-practices-37io)
-- [Leetcode 101](https://dev.to/geyuqiu/leetcode-101-4c0j)
 <!-- BLOG-POST-LIST:END -->
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 
@@ -92,11 +92,11 @@ Recently, I am working on private git repositories, that's where you may not see
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14439](https://github.com/cypress-io/cypress/issues/14439) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-2. ❗️ Opened issue [#14438](https://github.com/cypress-io/cypress/issues/14438) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-3. 🗣 Commented on [#140](https://github.com/DethAriel/ng-recaptcha/issues/140) in [DethAriel/ng-recaptcha](https://github.com/DethAriel/ng-recaptcha)
-4. ❗️ Opened issue [#267](https://github.com/Appboy/appboy-ios-sdk/issues/267) in [Appboy/appboy-ios-sdk](https://github.com/Appboy/appboy-ios-sdk)
-5. ❗️ Opened issue [#199](https://github.com/alanshaw/markdown-pdf/issues/199) in [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf)
+1. 🗣 Commented on [#142](https://github.com/cnescatlab/sonar-cnes-report/issues/142) in [cnescatlab/sonar-cnes-report](https://github.com/cnescatlab/sonar-cnes-report)
+2. ❗️ Opened issue [#14439](https://github.com/cypress-io/cypress/issues/14439) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+3. ❗️ Opened issue [#14438](https://github.com/cypress-io/cypress/issues/14438) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+4. 🗣 Commented on [#140](https://github.com/DethAriel/ng-recaptcha/issues/140) in [DethAriel/ng-recaptcha](https://github.com/DethAriel/ng-recaptcha)
+5. ❗️ Opened issue [#267](https://github.com/Appboy/appboy-ios-sdk/issues/267) in [Appboy/appboy-ios-sdk](https://github.com/Appboy/appboy-ios-sdk)
 <!--END_SECTION:activity-->
 
 </details>
