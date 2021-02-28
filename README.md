@@ -3,7 +3,7 @@
 ## I'm advanced Developer!
 
 <!--- 🌱 I’m currently learning everything 🤣-->
-- cv: https://603b71f1e4f0284e902dd044--festive-easley-b3a01c.netlify.app/
+- cv: https://603b71f1e4f0284e902dd044--festive-easley-b3a01c.netlify.app/, use need a password for that ;) 
 - 🔭 I’m currently working on a project at a famous German insurance company !
 - 💪 I just passed the [isqab-foundation-level][isqab-foundation-level]!
 - 👯 I’m looking to collaborate with others
