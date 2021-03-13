@@ -107,6 +107,8 @@ Recently, I am working on private git repositories, that's where you may not see
   <img align="left" alt="Yuqiu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=geyuqiu&show_icons=true&hide_border=true" />
 </details>
 
+---
+
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
