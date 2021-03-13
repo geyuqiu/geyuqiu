@@ -107,6 +107,10 @@ Recently, I am working on private git repositories, that's where you may not see
   <img align="left" alt="Yuqiu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=geyuqiu&show_icons=true&hide_border=true" />
 </details>
 
+### StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 [isqab-foundation-level]: https://www.isaqb.org/documents/
 [java-oca-8]: https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808
 [aws-cda]: https://aws.amazon.com/certification/certification-prep/?nc1=h_ls
