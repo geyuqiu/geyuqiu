@@ -93,11 +93,11 @@ Recently, I am working on private git repositories, that's where you may not see
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/cnescatlab/sonar-cnes-report/issues/142) in [cnescatlab/sonar-cnes-report](https://github.com/cnescatlab/sonar-cnes-report)
-2. ❗️ Opened issue [#14439](https://github.com/cypress-io/cypress/issues/14439) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-3. ❗️ Opened issue [#14438](https://github.com/cypress-io/cypress/issues/14438) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-4. 🗣 Commented on [#140](https://github.com/DethAriel/ng-recaptcha/issues/140) in [DethAriel/ng-recaptcha](https://github.com/DethAriel/ng-recaptcha)
-5. ❗️ Opened issue [#267](https://github.com/Appboy/appboy-ios-sdk/issues/267) in [Appboy/appboy-ios-sdk](https://github.com/Appboy/appboy-ios-sdk)
+1. 💪 Opened PR [#1](https://github.com/michiel2003/GIP2021/pull/1) in [michiel2003/GIP2021](https://github.com/michiel2003/GIP2021)
+2. 🗣 Commented on [#142](https://github.com/cnescatlab/sonar-cnes-report/issues/142) in [cnescatlab/sonar-cnes-report](https://github.com/cnescatlab/sonar-cnes-report)
+3. ❗️ Opened issue [#14439](https://github.com/cypress-io/cypress/issues/14439) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+4. ❗️ Opened issue [#14438](https://github.com/cypress-io/cypress/issues/14438) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+5. 🗣 Commented on [#140](https://github.com/DethAriel/ng-recaptcha/issues/140) in [DethAriel/ng-recaptcha](https://github.com/DethAriel/ng-recaptcha)
 <!--END_SECTION:activity-->
 
 </details>
