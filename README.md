@@ -111,6 +111,11 @@ Recently, I am working on private git repositories, that's where you may not see
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Yuqiu G. for Implement simple back navigation with angular router](https://stackoverflow.com/questions/66614651/implement-simple-back-navigation-with-angular-router/66617261#66617261)
+- [Answer by Yuqiu G. for Got "Cannot read property 'src' of undefined error" while creating mobile app using angular ionic and wordpress (woocommerce) as a backend](https://stackoverflow.com/questions/66616967/got-cannot-read-property-src-of-undefined-error-while-creating-mobile-app-us/66617165#66617165)
+- [Answer by Yuqiu G. for Program keeps throwing error org.springframework.beans.factory.BeanCreationException Spring boot](https://stackoverflow.com/questions/66612526/program-keeps-throwing-error-org-springframework-beans-factory-beancreationexcep/66613069#66613069)
+- [Answer by Yuqiu G. for Issue with content security policy header](https://stackoverflow.com/questions/66612439/issue-with-content-security-policy-header/66612644#66612644)
+- [Answer by Yuqiu G. for add 10 days to a datepicker value in angular](https://stackoverflow.com/questions/66611979/add-10-days-to-a-datepicker-value-in-angular/66612573#66612573)
 <!-- STACKOVERFLOW:END -->
 
 [isqab-foundation-level]: https://www.isaqb.org/documents/
