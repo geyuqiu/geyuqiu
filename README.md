@@ -104,8 +104,8 @@ Recently, I am working on private git repositories, that's where you may not see
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/michiel2003/GIP2021/pull/1) in [michiel2003/GIP2021](https://github.com/michiel2003/GIP2021)
-2. 🗣 Commented on [#142](https://github.com/cnescatlab/sonar-cnes-report/issues/142) in [cnescatlab/sonar-cnes-report](https://github.com/cnescatlab/sonar-cnes-report)
+1. 🗣 Commented on [#1096](https://github.com/primefaces/primevue/issues/1096) in [primefaces/primevue](https://github.com/primefaces/primevue)
+2. 💪 Opened PR [#1](https://github.com/michiel2003/GIP2021/pull/1) in [michiel2003/GIP2021](https://github.com/michiel2003/GIP2021)
 3. ❗️ Opened issue [#14439](https://github.com/cypress-io/cypress/issues/14439) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
 4. ❗️ Opened issue [#14438](https://github.com/cypress-io/cypress/issues/14438) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
 5. 🗣 Commented on [#140](https://github.com/DethAriel/ng-recaptcha/issues/140) in [DethAriel/ng-recaptcha](https://github.com/DethAriel/ng-recaptcha)
