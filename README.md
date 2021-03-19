@@ -89,7 +89,7 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript vs JavaScript](https://medium.com/@yuqiuge/typescript-vs-javascript-309e3937e300?source=rss-8fade33fd493------2)
+- [TypeScript vs JavaScript](https://yuqiuge.medium.com/typescript-vs-javascript-309e3937e300?source=rss-8fade33fd493------2)
 - [TypeScript vs JavaScript](https://dev.to/geyuqiu/typescript-vs-javescript-4jmi)
 - [List of great Trainings for a Java/Typescript Developer](https://dev.to/geyuqiu/list-of-great-trainings-for-a-java-typescript-developer-2gk2)
 - [Nice Experience with a Freelancing Ionic/Angular project](https://dev.to/geyuqiu/nice-experience-with-a-freelancing-ionic-angular-project-1pd7)
