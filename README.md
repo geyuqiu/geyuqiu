@@ -77,11 +77,11 @@ Other tools: <br /><br />
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Yuqiu G. for The easiest Junit test for connection to database in spring boot application](https://stackoverflow.com/questions/66720244/the-easiest-junit-test-for-connection-to-database-in-spring-boot-application/66720604#66720604)
+- [Answer by Yuqiu G. for Why form validation errors are not showing in Angular?](https://stackoverflow.com/questions/66717355/why-form-validation-errors-are-not-showing-in-angular/66720560#66720560)
+- [Answer by Yuqiu G. for How to use data given by API in ionic](https://stackoverflow.com/questions/66720271/how-to-use-data-given-by-api-in-ionic/66720426#66720426)
 - [Answer by Yuqiu G. for why file upload gives error cannot read nativeElement of undefined?](https://stackoverflow.com/questions/66621871/why-file-upload-gives-error-cannot-read-nativeelement-of-undefined/66623619#66623619)
 - [Answer by Yuqiu G. for Can't reach mysql server with Node.js & AWS EC2](https://stackoverflow.com/questions/66622769/cant-reach-mysql-server-with-node-js-aws-ec2/66623050#66623050)
-- [Answer by Yuqiu G. for Implement simple back navigation with angular router](https://stackoverflow.com/questions/66614651/implement-simple-back-navigation-with-angular-router/66617261#66617261)
-- [Answer by Yuqiu G. for Got "Cannot read property 'src' of undefined error" while creating mobile app using angular ionic and wordpress (woocommerce) as a backend](https://stackoverflow.com/questions/66616967/got-cannot-read-property-src-of-undefined-error-while-creating-mobile-app-us/66617165#66617165)
-- [Answer by Yuqiu G. for Program keeps throwing error org.springframework.beans.factory.BeanCreationException Spring boot](https://stackoverflow.com/questions/66612526/program-keeps-throwing-error-org-springframework-beans-factory-beancreationexcep/66613069#66613069)
 <!-- STACKOVERFLOW:END -->
 
 ---
