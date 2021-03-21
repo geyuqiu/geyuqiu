@@ -77,11 +77,11 @@ Other tools: <br /><br />
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Yuqiu G. for connect mongoDB atlas to angular](https://stackoverflow.com/questions/66731248/connect-mongodb-atlas-to-angular/66732188#66732188)
 - [Answer by Yuqiu G. for The easiest Junit test for connection to database in spring boot application](https://stackoverflow.com/questions/66720244/the-easiest-junit-test-for-connection-to-database-in-spring-boot-application/66720604#66720604)
 - [Answer by Yuqiu G. for Why form validation errors are not showing in Angular?](https://stackoverflow.com/questions/66717355/why-form-validation-errors-are-not-showing-in-angular/66720560#66720560)
 - [Answer by Yuqiu G. for How to use data given by API in ionic](https://stackoverflow.com/questions/66720271/how-to-use-data-given-by-api-in-ionic/66720426#66720426)
 - [Answer by Yuqiu G. for why file upload gives error cannot read nativeElement of undefined?](https://stackoverflow.com/questions/66621871/why-file-upload-gives-error-cannot-read-nativeelement-of-undefined/66623619#66623619)
-- [Answer by Yuqiu G. for Can't reach mysql server with Node.js & AWS EC2](https://stackoverflow.com/questions/66622769/cant-reach-mysql-server-with-node-js-aws-ec2/66623050#66623050)
 <!-- STACKOVERFLOW:END -->
 
 ---
