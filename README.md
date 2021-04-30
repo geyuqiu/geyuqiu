@@ -76,11 +76,11 @@ Other tools: <br /><br />
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by Yuqiu G. for Implement simple back navigation with angular router](https://stackoverflow.com/questions/66614651/implement-simple-back-navigation-with-angular-router/66617261#66617261)
-- [Answer by Yuqiu G. for Got "Cannot read property 'src' of undefined error" while creating mobile app using angular ionic and wordpress (woocommerce) as a backend](https://stackoverflow.com/questions/66616967/got-cannot-read-property-src-of-undefined-error-while-creating-mobile-app-us/66617165#66617165)
-- [Answer by Yuqiu G. for Program keeps throwing error org.springframework.beans.factory.BeanCreationException Spring boot](https://stackoverflow.com/questions/66612526/program-keeps-throwing-error-org-springframework-beans-factory-beancreationexcep/66613069#66613069)
-- [Answer by Yuqiu G. for Issue with content security policy header](https://stackoverflow.com/questions/66612439/issue-with-content-security-policy-header/66612644#66612644)
-- [Answer by Yuqiu G. for add 10 days to a datepicker value in angular](https://stackoverflow.com/questions/66611979/add-10-days-to-a-datepicker-value-in-angular/66612573#66612573)
+- [Answer by Yuqiu G. for Problem with rendering component when using window.location.pathname and window.location.hash with navigation bar](https://stackoverflow.com/questions/67148169/problem-with-rendering-component-when-using-window-location-pathname-and-window/67149424#67149424)
+- [Answer by Yuqiu G. for Access to DOM body element from within Angular TestBed](https://stackoverflow.com/questions/66924675/access-to-dom-body-element-from-within-angular-testbed/66929379#66929379)
+- [Answer by Yuqiu G. for Error: Cannot read property '0' of undefined while deploying on Heroku](https://stackoverflow.com/questions/66824314/error-cannot-read-property-0-of-undefined-while-deploying-on-heroku/66830355#66830355)
+- [Answer by Yuqiu G. for Load json from local file with http.get() in angular 2](https://stackoverflow.com/questions/44042223/load-json-from-local-file-with-http-get-in-angular-2/66787562#66787562)
+- [Answer by Yuqiu G. for connect mongoDB atlas to angular](https://stackoverflow.com/questions/66731248/connect-mongodb-atlas-to-angular/66732188#66732188)
 <!-- STACKOVERFLOW:END -->
 
 ---
@@ -88,7 +88,7 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript vs JavaScript](https://medium.com/@yuqiuge/typescript-vs-javascript-309e3937e300?source=rss-8fade33fd493------2)
+- [TypeScript vs JavaScript](https://yuqiuge.medium.com/typescript-vs-javascript-309e3937e300?source=rss-8fade33fd493------2)
 - [TypeScript vs JavaScript](https://dev.to/geyuqiu/typescript-vs-javescript-4jmi)
 - [List of great Trainings for a Java/Typescript Developer](https://dev.to/geyuqiu/list-of-great-trainings-for-a-java-typescript-developer-2gk2)
 - [Nice Experience with a Freelancing Ionic/Angular project](https://dev.to/geyuqiu/nice-experience-with-a-freelancing-ionic-angular-project-1pd7)
@@ -103,8 +103,8 @@ Recently, I am working on private git repositories, that's where you may not see
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/michiel2003/GIP2021/pull/1) in [michiel2003/GIP2021](https://github.com/michiel2003/GIP2021)
-2. 🗣 Commented on [#142](https://github.com/cnescatlab/sonar-cnes-report/issues/142) in [cnescatlab/sonar-cnes-report](https://github.com/cnescatlab/sonar-cnes-report)
+1. ❗️ Opened issue [#1](https://github.com/luciorubeens/react-electron-template/issues/1) in [luciorubeens/react-electron-template](https://github.com/luciorubeens/react-electron-template)
+2. 💪 Opened PR [#1](https://github.com/michiel2003/GIP2021/pull/1) in [michiel2003/GIP2021](https://github.com/michiel2003/GIP2021)
 3. ❗️ Opened issue [#14439](https://github.com/cypress-io/cypress/issues/14439) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
 4. ❗️ Opened issue [#14438](https://github.com/cypress-io/cypress/issues/14438) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
 5. 🗣 Commented on [#140](https://github.com/DethAriel/ng-recaptcha/issues/140) in [DethAriel/ng-recaptcha](https://github.com/DethAriel/ng-recaptcha)
