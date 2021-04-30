@@ -3,7 +3,6 @@
 ## I'm advanced Developer!
 
 <!--- 🌱 I’m currently learning everything 🤣-->
-- 🧑🏻‍💼 resume: https://yuqiu-resume.netlify.app/, tip: you need a password for that ;) 
 - 🔭 I’m currently working on a project at a famous German insurance company !
 - 💪 I just passed the [isqab-foundation-level][isqab-foundation-level]!
 - 👯 I’m looking to collaborate with others
