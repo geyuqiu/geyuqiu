@@ -1,13 +1,12 @@
 ### Hi there, I'm Yuqiu (Yuchew - chew like in chewing gum) 👋
 
-## I'm advanced Developer!
+## I'm a full Stack developer!
 
 <!--- 🌱 I’m currently learning everything 🤣-->
-- 🔭 I’m currently working on a project at a famous German insurance company !
-- 💪 I just passed the [isqab-foundation-level][isqab-foundation-level]!
+- 🔭 I’m currently working on a project at a German energy company !
 - 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: contribute more on github, dev.to and stackoverflow
-- Fun fact: I love to play 🏓 and 🏸
+- Fun fact: I love to play 🏓, 🏸 and value investing
 - I have presented [1 tech talk](https://geyuqiu.github.io/jhipster-in-action/) in english
 - I have attended a few conferences such as [JCon](https://jcon.one/de/), [AWS DEV Day](https://pages.awscloud.com/EMEA_FIELD_WEBINAR_DevdayMAD_20201015_7010z000001LtjX_On-Demand-Confirmation.html?sc_channel=em&sc_campaign=emea20_devdayonlineq4&sc_medium=em_309568&sc_content=REG_event_ev_field&sc_geo=emea&sc_country=mult&sc_outcome=reg&sc_publisher=aws&trkCampaign=emea20_devdayonlineq4&trk=em_thankyousurvey_loc-309568_emea20_devdayonlineq4), 
 - I speak 3 languages fluently: 🇺🇸, 🇩🇪
