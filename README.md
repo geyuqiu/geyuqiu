@@ -75,11 +75,11 @@ Other tools: <br /><br />
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Yuqiu G. for Stubbing out Angular services in Cypress](https://stackoverflow.com/questions/58250235/stubbing-out-angular-services-in-cypress/71448824#71448824)
 - [Answer by Yuqiu G. for Not able to install @angular/cli using npm](https://stackoverflow.com/questions/47670693/not-able-to-install-angular-cli-using-npm/70780680#70780680)
 - [Answer by Yuqiu G. for Problem with rendering component when using window.location.pathname and window.location.hash with navigation bar](https://stackoverflow.com/questions/67148169/problem-with-rendering-component-when-using-window-location-pathname-and-window/67149424#67149424)
 - [Answer by Yuqiu G. for Access to DOM body element from within Angular TestBed](https://stackoverflow.com/questions/66924675/access-to-dom-body-element-from-within-angular-testbed/66929379#66929379)
 - [Answer by Yuqiu G. for Error: Cannot read property &#39;0&#39; of undefined while deploying on Heroku](https://stackoverflow.com/questions/66824314/error-cannot-read-property-0-of-undefined-while-deploying-on-heroku/66830355#66830355)
-- [Answer by Yuqiu G. for Load json from local file with http.get&lpar;&rpar; in angular 2](https://stackoverflow.com/questions/44042223/load-json-from-local-file-with-http-get-in-angular-2/66787562#66787562)
 <!-- STACKOVERFLOW:END -->
 
 ---
