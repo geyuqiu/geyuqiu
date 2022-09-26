@@ -64,9 +64,6 @@ Other tools: <br /><br />
 <!-- YOUTUBE:START -->
 - [[value investing 0.1] Understanding Mr. Market by looking into Berkshire&#39;s investment into byd &lpar;比亚迪&rpar;](https://www.youtube.com/watch?v=GzhReLzzFFI)
 - [how to structure your junit tests properly](https://www.youtube.com/watch?v=fIfa-qW_6h8)
-- [3 react code example fixes](https://www.youtube.com/watch?v=sQpbILf0GFM)
-- [barchart e2e spec ts](https://www.youtube.com/watch?v=wXQk33RPQ1w)
-- [gate assignments e2e spec ts](https://www.youtube.com/watch?v=gRv1o3m5lR0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTfa5NSGeVLmcHYPRu9qh_g)
