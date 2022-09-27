@@ -62,6 +62,7 @@ Other tools: <br /><br />
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[价值投资 0.1] 通过研究伯克希尔对比亚迪的投资来了解市场先生](https://www.youtube.com/watch?v=OjbKTrSUbpw)
 - [[value investing 0.1] Understanding Mr. Market by looking into Berkshire&#39;s investment into byd &lpar;比亚迪&rpar;](https://www.youtube.com/watch?v=GzhReLzzFFI)
 - [how to structure your junit tests properly](https://www.youtube.com/watch?v=fIfa-qW_6h8)
 <!-- YOUTUBE:END -->
