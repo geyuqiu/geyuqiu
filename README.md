@@ -62,7 +62,7 @@ Other tools: <br /><br />
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Cathy Wood finally lost his touch](https://www.youtube.com/watch?v=buMIGpBgeRs)
+- [Cathy Wood finally lost his touch](https://www.youtube.com/watch?v=2DpaXFe9WIE)
 - [[价值投资 0.1] 通过研究伯克希尔对比亚迪的投资来了解市场先生](https://www.youtube.com/watch?v=OjbKTrSUbpw)
 - [[value investing 0.1] Understanding Mr. Market by looking into Berkshire&#39;s investment into byd &lpar;比亚迪&rpar;](https://www.youtube.com/watch?v=GzhReLzzFFI)
 <!-- YOUTUBE:END -->
