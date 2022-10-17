@@ -66,7 +66,7 @@ Other tools: <br /><br />
 - [[value investing 0.1] Understanding Mr. Market by looking into Berkshire&#39;s investment into byd &lpar;比亚迪&rpar;](https://www.youtube.com/watch?v=GzhReLzzFFI)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/channel/UCTfa5NSGeVLmcHYPRu9qh_g)
+➡️ [more videos...](https://www.youtube.com/channel/UCcx89MBC4J7YXVsrpQJNouw)
 
 ---
 
