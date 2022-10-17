@@ -114,7 +114,7 @@ Last Updated: Monday, October 17th, 2022, 10:33:13 AM
 
 <details>
   <summary>:zap: Github Stats</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geyuqiu)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geyuqiu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [isqab-foundation-level]: https://www.isaqb.org/documents/
