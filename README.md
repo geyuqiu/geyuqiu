@@ -112,10 +112,6 @@ Last Updated: Monday, October 17th, 2022, 10:33:13 AM
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geyuqiu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-</details>
 
 [isqab-foundation-level]: https://www.isaqb.org/documents/
 [java-oca-8]: https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808
