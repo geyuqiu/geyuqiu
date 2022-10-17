@@ -62,8 +62,8 @@ Other tools: <br /><br />
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Cathy Wood finally lost his touch](https://www.youtube.com/watch?v=2DpaXFe9WIE)
-- [[value investing 0.1] Understanding Mr. Market by looking into Berkshire&#39;s investment into byd &lpar;比亚迪&rpar;](https://www.youtube.com/watch?v=GzhReLzzFFI)
+- [[agile developer 0.1] Increase your developer productivity with IDE &lpar;Intellij&rpar;](https://www.youtube.com/watch?v=mWGBP8JUQBg)
+- [Naming your &lpar;j&rpar;unit tests properly](https://www.youtube.com/watch?v=4z0yxkYj4Jg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCcx89MBC4J7YXVsrpQJNouw)
