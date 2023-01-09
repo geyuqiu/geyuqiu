@@ -62,6 +62,8 @@ Other tools: <br /><br />
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Uncle Bob: how to test legacy code](https://www.youtube.com/watch?v=6SRRCANRdSo)
+- [Love and hate software engineering industry](https://www.youtube.com/watch?v=dm-o-CIHG0w)
 - [Uncle Bob expects all tests to be automated](https://www.youtube.com/watch?v=h-99YLmURwQ)
 - [Uncle Bob expects fearless competence, constant refactoring with test driven development](https://www.youtube.com/watch?v=GZL8-Ywq9qg)
 - [Uncle Bob expects stable productivity](https://www.youtube.com/watch?v=hd2TuMpH_8A)
