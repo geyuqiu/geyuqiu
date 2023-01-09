@@ -62,8 +62,7 @@ Other tools: <br /><br />
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[agile developer 0.1] Increase your developer productivity with IDE &lpar;Intellij&rpar;](https://www.youtube.com/watch?v=mWGBP8JUQBg)
-- [Naming your &lpar;j&rpar;unit tests properly](https://www.youtube.com/watch?v=4z0yxkYj4Jg)
+- [Uncle Bob expects stable productivity](https://www.youtube.com/watch?v=hd2TuMpH_8A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCcx89MBC4J7YXVsrpQJNouw)
