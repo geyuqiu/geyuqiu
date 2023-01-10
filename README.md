@@ -63,7 +63,7 @@ Other tools: <br /><br />
 
 <!-- YOUTUBE:START -->
 - [Robert Cecil Martin: how to test legacy code](https://www.youtube.com/watch?v=6SRRCANRdSo)
-- [Robert Cecil Martin: Love and hate software engineering industry](https://www.youtube.com/watch?v=dm-o-CIHG0w)
+- [Robert Cecil Martin: love and hate software engineering industry](https://www.youtube.com/watch?v=dm-o-CIHG0w)
 - [Robert Cecil Martin expects all tests to be automated](https://www.youtube.com/watch?v=h-99YLmURwQ)
 - [Robert Cecil Martin expects fearless competence, constant refactoring with test driven development](https://www.youtube.com/watch?v=GZL8-Ywq9qg)
 - [Robert Cecil Martin expects stable productivity](https://www.youtube.com/watch?v=hd2TuMpH_8A)
