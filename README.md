@@ -62,11 +62,11 @@ Other tools: <br /><br />
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Uncle Bob: do not check in todo comments](https://www.youtube.com/watch?v=z-5ZhjyS8gY)
+- [Robert Cecil Martin &lpar;uncle Bob&rpar;: thou shall not mandate comments](https://www.youtube.com/watch?v=8FCDwq6PNOA)
+- [Robert Cecil Martin &lpar;uncle Bob&rpar;: do not check in todo comments](https://www.youtube.com/watch?v=z-5ZhjyS8gY)
 - [Robert Cecil Martin &lpar;uncle Bob&rpar;: let test driven development drive design](https://www.youtube.com/watch?v=8GZ2q6DEFH8)
 - [Robert Cecil Martin &lpar;uncle Bob&rpar;: thou shall not be good at hot keys for debugging](https://www.youtube.com/watch?v=uKyoeeqkIrI)
 - [Robert Cecil Martin &lpar;uncle Bob&rpar;: how to test legacy code](https://www.youtube.com/watch?v=6SRRCANRdSo)
-- [Robert Cecil Martin &lpar;uncle Bob&rpar;: love and hate software engineering industry](https://www.youtube.com/watch?v=dm-o-CIHG0w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCcx89MBC4J7YXVsrpQJNouw)
