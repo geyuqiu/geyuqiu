@@ -87,11 +87,11 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
-- [Anecdotes of Warren and Peter](https://yuqiuge.medium.com/anecdotes-of-warren-and-peter-1fbf10afd13b?source=rss-8fade33fd493------2)
-- [Similarities between Poker and value investing](https://yuqiuge.medium.com/similarities-between-poker-and-value-investing-c03383d6dea6?source=rss-8fade33fd493------2)
-- [TypeScript vs JavaScript](https://yuqiuge.medium.com/typescript-vs-javascript-309e3937e300?source=rss-8fade33fd493------2)
-- [TypeScript vs JavaScript](https://dev.to/geyuqiu/typescript-vs-javescript-4jmi)
-- [List of great Trainings for a Java/Typescript Developer](https://dev.to/geyuqiu/list-of-great-trainings-for-a-java-typescript-developer-2gk2)
+- [Which financial ratios should I focus on balance sheet](https://yuqiuge.medium.com/which-financial-ratios-should-i-focus-on-balance-sheet-3a52735aee6c?source=rss-8fade33fd493------2)
+- [Peter Lynch casually mentions Warren Buffett in all of his 3 books](https://yuqiuge.medium.com/peter-lynch-casually-mentions-warren-buffett-in-all-of-his-3-books-ecb0a58eee0a?source=rss-8fade33fd493------2)
+- [Checklist for stock research](https://yuqiuge.medium.com/checklist-for-stock-research-bcc8039d4a76?source=rss-8fade33fd493------2)
+- [Quotes from 100 to 1 in the stock market](https://yuqiuge.medium.com/quotes-from-100-to-1-in-the-stock-market-8cbaa9652268?source=rss-8fade33fd493------2)
+- [Cloning VIC is sometimes better than DIY](https://yuqiuge.medium.com/cloning-vic-is-sometimes-better-than-diy-7b9c065a60e?source=rss-8fade33fd493------2)
 <!-- BLOG-POST-LIST:END -->
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 
