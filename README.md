@@ -87,11 +87,11 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
+- [Cracking the Coding Interview](https://yuqiuge.medium.com/cracking-the-coding-interview-2ff80ba44085?source=rss-8fade33fd493------2)
 - [Which financial ratios should I focus on balance sheet](https://yuqiuge.medium.com/which-financial-ratios-should-i-focus-on-balance-sheet-3a52735aee6c?source=rss-8fade33fd493------2)
 - [Peter Lynch casually mentions Warren Buffett in all of his 3 books](https://yuqiuge.medium.com/peter-lynch-casually-mentions-warren-buffett-in-all-of-his-3-books-ecb0a58eee0a?source=rss-8fade33fd493------2)
 - [Checklist for stock research](https://yuqiuge.medium.com/checklist-for-stock-research-bcc8039d4a76?source=rss-8fade33fd493------2)
 - [Quotes from 100 to 1 in the stock market](https://yuqiuge.medium.com/quotes-from-100-to-1-in-the-stock-market-8cbaa9652268?source=rss-8fade33fd493------2)
-- [Cloning VIC is sometimes better than DIY](https://yuqiuge.medium.com/cloning-vic-is-sometimes-better-than-diy-7b9c065a60e?source=rss-8fade33fd493------2)
 <!-- BLOG-POST-LIST:END -->
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 
