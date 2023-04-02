@@ -87,7 +87,7 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide to solve a dynamic programming Leetcode problem](https://yuqiuge.medium.com/a-step-by-step-guide-to-solve-a-dynamic-programming-leetcode-problem-b4fbdb2c7d60?source=rss-8fade33fd493------2)
+- [A Step-by-Step Guide: Finding the Substring With Maximum Cost &lpar;Dynamic Programming&rpar;](https://yuqiuge.medium.com/a-step-by-step-guide-to-solve-a-dynamic-programming-leetcode-problem-b4fbdb2c7d60?source=rss-8fade33fd493------2)
 - [Brute-force for Find the Substring With Maximum Cost](https://yuqiuge.medium.com/brute-force-for-find-the-substring-with-maximum-cost-309040f425e9?source=rss-8fade33fd493------2)
 - [6 Steps to Crack the Coding Interview](https://yuqiuge.medium.com/cracking-the-coding-interview-2ff80ba44085?source=rss-8fade33fd493------2)
 - [Which financial ratios should I focus on balance sheet](https://yuqiuge.medium.com/which-financial-ratios-should-i-focus-on-balance-sheet-3a52735aee6c?source=rss-8fade33fd493------2)
