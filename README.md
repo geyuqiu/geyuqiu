@@ -75,11 +75,11 @@ Other tools: <br /><br />
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Yuqiu G. for Wrong JAVA_HOME after upgrade to macOS Big Sur v11.0.1](https://stackoverflow.com/questions/64917779/wrong-java-home-after-upgrade-to-macos-big-sur-v11-0-1/76042428#76042428)
 - [Answer by Yuqiu G. for pg_restore ERROR: “Relation does not exist” and creating new database](https://stackoverflow.com/questions/49686853/pg-restore-error-relation-does-not-exist-and-creating-new-database/76003273#76003273)
 - [Answer by Yuqiu G. for Git is not working after macOS Update &lpar;xcrun: error: invalid active developer path &lpar;/Library/Developer/CommandLineTools&rpar;](https://stackoverflow.com/questions/52522565/git-is-not-working-after-macos-update-xcrun-error-invalid-active-developer-pa/73716107#73716107)
 - [Answer by Yuqiu G. for Cypress: How to properly close a mat-select](https://stackoverflow.com/questions/60532511/cypress-how-to-properly-close-a-mat-select/72178028#72178028)
 - [Answer by Yuqiu G. for Stubbing out Angular services in Cypress](https://stackoverflow.com/questions/58250235/stubbing-out-angular-services-in-cypress/71448824#71448824)
-- [Answer by Yuqiu G. for Not able to install @angular/cli using npm](https://stackoverflow.com/questions/47670693/not-able-to-install-angular-cli-using-npm/70780680#70780680)
 <!-- STACKOVERFLOW:END -->
 
 ---
