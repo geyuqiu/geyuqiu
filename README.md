@@ -87,11 +87,11 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript vs JavaScript](https://dev.to/geyuqiu/typescript-vs-javescript-4jmi)
-- [List of great Trainings for a Java/Typescript Developer](https://dev.to/geyuqiu/list-of-great-trainings-for-a-java-typescript-developer-2gk2)
-- [Nice Experience with a Freelancing Ionic/Angular project](https://dev.to/geyuqiu/nice-experience-with-a-freelancing-ionic-angular-project-1pd7)
-- [Leetcode 102 best practices](https://dev.to/geyuqiu/leetcode-102-best-practices-37io)
-- [Leetcode 101](https://dev.to/geyuqiu/leetcode-101-4c0j)
+- [A Step-by-Step Guide: Finding the Substring With Maximum Cost &lpar;Dynamic Programming&rpar;](https://yuqiuge.medium.com/a-step-by-step-guide-to-solve-a-dynamic-programming-leetcode-problem-b4fbdb2c7d60?source=rss-8fade33fd493------2)
+- [Brute-force for Find the Substring With Maximum Cost](https://yuqiuge.medium.com/brute-force-for-find-the-substring-with-maximum-cost-309040f425e9?source=rss-8fade33fd493------2)
+- [6 Steps to Crack the Coding Interview](https://yuqiuge.medium.com/cracking-the-coding-interview-2ff80ba44085?source=rss-8fade33fd493------2)
+- [Which financial ratios should I focus on balance sheet](https://yuqiuge.medium.com/which-financial-ratios-should-i-focus-on-balance-sheet-3a52735aee6c?source=rss-8fade33fd493------2)
+- [Peter Lynch casually mentions Warren Buffett in all of his 3 books](https://yuqiuge.medium.com/peter-lynch-casually-mentions-warren-buffett-in-all-of-his-3-books-ecb0a58eee0a?source=rss-8fade33fd493------2)
 <!-- BLOG-POST-LIST:END -->
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 
