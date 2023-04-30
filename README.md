@@ -87,11 +87,11 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximum Number of Fish in a Grid](https://yuqiuge.medium.com/maximum-number-of-fish-in-a-grid-d5329e37cbb0?source=rss-8fade33fd493------2)
+- [Number of Islands](https://yuqiuge.medium.com/number-of-islands-eb1a34a317ca?source=rss-8fade33fd493------2)
+- [Depth-first Search &lpar;dfs&rpar;](https://yuqiuge.medium.com/depth-first-search-dfs-bbff662cb774?source=rss-8fade33fd493------2)
 - [A Step-by-Step Guide: Finding the Substring With Maximum Cost &lpar;Dynamic Programming&rpar;](https://yuqiuge.medium.com/a-step-by-step-guide-to-solve-a-dynamic-programming-leetcode-problem-b4fbdb2c7d60?source=rss-8fade33fd493------2)
 - [Brute-force for Find the Substring With Maximum Cost](https://yuqiuge.medium.com/brute-force-for-find-the-substring-with-maximum-cost-309040f425e9?source=rss-8fade33fd493------2)
-- [6 Steps to Crack the Coding Interview](https://yuqiuge.medium.com/cracking-the-coding-interview-2ff80ba44085?source=rss-8fade33fd493------2)
-- [Which financial ratios should I focus on balance sheet](https://yuqiuge.medium.com/which-financial-ratios-should-i-focus-on-balance-sheet-3a52735aee6c?source=rss-8fade33fd493------2)
-- [Peter Lynch casually mentions Warren Buffett in all of his 3 books](https://yuqiuge.medium.com/peter-lynch-casually-mentions-warren-buffett-in-all-of-his-3-books-ecb0a58eee0a?source=rss-8fade33fd493------2)
 <!-- BLOG-POST-LIST:END -->
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 
