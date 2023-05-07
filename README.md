@@ -87,11 +87,11 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode: Number of Adjacent Elements With the Same Color](https://yuqiuge.medium.com/leetcode-number-of-adjacent-elements-with-the-same-color-f342da464132?source=rss-8fade33fd493------2)
+- [Leetcode: Frequency Tracker](https://yuqiuge.medium.com/leetcode-8b18d0aa4a12?source=rss-8fade33fd493------2)
+- [Leetcode: Find the Distinct Difference Array](https://yuqiuge.medium.com/leetcode-find-the-distinct-difference-array-9fd9af0c500d?source=rss-8fade33fd493------2)
 - [Maximum Number of Fish in a Grid](https://yuqiuge.medium.com/maximum-number-of-fish-in-a-grid-d5329e37cbb0?source=rss-8fade33fd493------2)
 - [Number of Islands](https://yuqiuge.medium.com/number-of-islands-eb1a34a317ca?source=rss-8fade33fd493------2)
-- [Depth-first Search &lpar;dfs&rpar;](https://yuqiuge.medium.com/depth-first-search-dfs-bbff662cb774?source=rss-8fade33fd493------2)
-- [A Step-by-Step Guide: Finding the Substring With Maximum Cost &lpar;Dynamic Programming&rpar;](https://yuqiuge.medium.com/a-step-by-step-guide-to-solve-a-dynamic-programming-leetcode-problem-b4fbdb2c7d60?source=rss-8fade33fd493------2)
-- [Brute-force for Find the Substring With Maximum Cost](https://yuqiuge.medium.com/brute-force-for-find-the-substring-with-maximum-cost-309040f425e9?source=rss-8fade33fd493------2)
 <!-- BLOG-POST-LIST:END -->
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 
