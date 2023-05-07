@@ -87,11 +87,11 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode: Frequency Tracker](https://yuqiuge.medium.com/leetcode-frequency-tracker-acc0cc56960?source=rss-8fade33fd493------2)
+- [How to crack the Leetcode Contest 344](https://yuqiuge.medium.com/how-to-crack-the-leetcode-contest-344-224dcd24a7ae?source=rss-8fade33fd493------2)
+- [Chatgpt gives us some hints on Leetcode Problem: Make Costs of Paths Equal in a Binary Tree](https://yuqiuge.medium.com/chatgpt-gives-us-some-hints-on-leetcode-problem-make-costs-of-paths-equal-in-a-binary-tree-18f48c864d13?source=rss-8fade33fd493------2)
 - [Leetcode: Number of Adjacent Elements With the Same Color](https://yuqiuge.medium.com/leetcode-number-of-adjacent-elements-with-the-same-color-f342da464132?source=rss-8fade33fd493------2)
-- [Leetcode: Frequency Tracker](https://yuqiuge.medium.com/leetcode-8b18d0aa4a12?source=rss-8fade33fd493------2)
 - [Leetcode: Find the Distinct Difference Array](https://yuqiuge.medium.com/leetcode-find-the-distinct-difference-array-9fd9af0c500d?source=rss-8fade33fd493------2)
-- [Maximum Number of Fish in a Grid](https://yuqiuge.medium.com/maximum-number-of-fish-in-a-grid-d5329e37cbb0?source=rss-8fade33fd493------2)
-- [Number of Islands](https://yuqiuge.medium.com/number-of-islands-eb1a34a317ca?source=rss-8fade33fd493------2)
 <!-- BLOG-POST-LIST:END -->
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 
