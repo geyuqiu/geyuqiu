@@ -102,15 +102,15 @@ Recently, I am working on private git repositories, that's where you may not see
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 23rd, 2023, 2:16:23 PM
+Last Updated: Friday, June 23rd, 2023, 3:19:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [geyuqiu/react-useeffect](https://github.com/geyuqiu/react-useeffect)
-2. 📔 Created new repository [geyuqiu/react-redux-with-context](https://github.com/geyuqiu/react-redux-with-context)
-3. 📔 Created new repository [geyuqiu/react-flux-deprecated-3](https://github.com/geyuqiu/react-flux-deprecated-3)
-4. 📔 Created new repository [geyuqiu/react-flux-deprecated-2](https://github.com/geyuqiu/react-flux-deprecated-2)
-5. 📔 Created new repository [geyuqiu/react-flux-deprecated](https://github.com/geyuqiu/react-flux-deprecated)
+1. 📔 Created new repository [geyuqiu/react-use-effect-fetch](https://github.com/geyuqiu/react-use-effect-fetch)
+2. 📔 Created new repository [geyuqiu/react-useeffect](https://github.com/geyuqiu/react-useeffect)
+3. 📔 Created new repository [geyuqiu/react-redux-with-context](https://github.com/geyuqiu/react-redux-with-context)
+4. 📔 Created new repository [geyuqiu/react-flux-deprecated-3](https://github.com/geyuqiu/react-flux-deprecated-3)
+5. 📔 Created new repository [geyuqiu/react-flux-deprecated-2](https://github.com/geyuqiu/react-flux-deprecated-2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
