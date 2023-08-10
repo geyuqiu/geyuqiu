@@ -87,11 +87,11 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon — A different kind of value stock](https://yuqiuge.medium.com/amazon-a-different-kind-of-value-stock-c9719057bcdd?source=rss-8fade33fd493------2)
 - [Thinking about the Past and Having Closure: Reply SpA $REY.MI](https://yuqiuge.medium.com/thinking-about-the-past-and-having-closure-reply-spa-rey-mi-d3493fb2635b?source=rss-8fade33fd493------2)
 - [Nemetschek SE &lpar;$NEM.DE&rpar; a wonderful compounding machine](https://yuqiuge.medium.com/nemetschek-se-nem-de-a-wonderful-compounding-machine-f355e9cee2f2?source=rss-8fade33fd493------2)
 - [Leetcode: Frequency Tracker](https://yuqiuge.medium.com/leetcode-frequency-tracker-acc0cc56960?source=rss-8fade33fd493------2)
 - [How to crack the Leetcode Contest 344](https://yuqiuge.medium.com/how-to-crack-the-leetcode-contest-344-224dcd24a7ae?source=rss-8fade33fd493------2)
-- [Chatgpt gives us some hints on Leetcode Problem: Make Costs of Paths Equal in a Binary Tree](https://yuqiuge.medium.com/chatgpt-gives-us-some-hints-on-leetcode-problem-make-costs-of-paths-equal-in-a-binary-tree-18f48c864d13?source=rss-8fade33fd493------2)
 <!-- BLOG-POST-LIST:END -->
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 
