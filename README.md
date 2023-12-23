@@ -87,11 +87,11 @@ Other tools: <br /><br />
 ### 📕 Latest Blog Posts of [me](https://dev.to/geyuqiu)
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon — A different kind of value stock](https://yuqiuge.medium.com/amazon-a-different-kind-of-value-stock-c9719057bcdd?source=rss-8fade33fd493------2)
-- [Thinking about the Past and Having Closure: Reply SpA $REY.MI](https://yuqiuge.medium.com/thinking-about-the-past-and-having-closure-reply-spa-rey-mi-d3493fb2635b?source=rss-8fade33fd493------2)
-- [Nemetschek SE &lpar;$NEM.DE&rpar; a wonderful compounding machine](https://yuqiuge.medium.com/nemetschek-se-nem-de-a-wonderful-compounding-machine-f355e9cee2f2?source=rss-8fade33fd493------2)
-- [Leetcode: Frequency Tracker](https://yuqiuge.medium.com/leetcode-frequency-tracker-acc0cc56960?source=rss-8fade33fd493------2)
-- [How to crack the Leetcode Contest 344](https://yuqiuge.medium.com/how-to-crack-the-leetcode-contest-344-224dcd24a7ae?source=rss-8fade33fd493------2)
+- [TypeScript vs JavaScript](https://dev.to/geyuqiu/typescript-vs-javescript-4jmi)
+- [List of great Trainings for a Java/Typescript Developer](https://dev.to/geyuqiu/list-of-great-trainings-for-a-java-typescript-developer-2gk2)
+- [Nice Experience with a Freelancing Ionic/Angular project](https://dev.to/geyuqiu/nice-experience-with-a-freelancing-ionic-angular-project-1pd7)
+- [Leetcode 102 best practices](https://dev.to/geyuqiu/leetcode-102-best-practices-37io)
+- [Leetcode 101](https://dev.to/geyuqiu/leetcode-101-4c0j)
 <!-- BLOG-POST-LIST:END -->
 - [JHipster in action](https://geyuqiu.github.io/jhipster-in-action/)
 
