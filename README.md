@@ -102,15 +102,15 @@ Recently, I am working on private git repositories, that's where you may not see
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 4th, 2024, 1:19:13 AM
+Last Updated: Thursday, July 4th, 2024, 1:21:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [geyuqiu/react-workshop-exercises](https://github.com/geyuqiu/react-workshop-exercises)
-2. 📔 Created new repository [geyuqiu/react-workshop](https://github.com/geyuqiu/react-workshop)
-3. 📔 Created new repository [geyuqiu/react-redux-hook](https://github.com/geyuqiu/react-redux-hook)
-4. 📔 Created new repository [geyuqiu/react-schulung-2023-kw43-musterloesung](https://github.com/geyuqiu/react-schulung-2023-kw43-musterloesung)
-5. 📔 Created new repository [geyuqiu/react-schulung-2023-kw43-musterloesung](https://github.com/geyuqiu/react-schulung-2023-kw43-musterloesung)
+1. ❗️ Opened issue [#364](https://github.com/jhipster/generator-jhipster-quarkus/issues/364) in [jhipster/generator-jhipster-quarkus](https://github.com/jhipster/generator-jhipster-quarkus)
+2. ❗️ Opened issue [#363](https://github.com/jhipster/generator-jhipster-quarkus/issues/363) in [jhipster/generator-jhipster-quarkus](https://github.com/jhipster/generator-jhipster-quarkus)
+3. ❗️ Opened issue [#18988](https://github.com/OpenAPITools/openapi-generator/issues/18988) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+4. 🔱 Forked [geyuqiu/jhipster-sample-app-quarkus](https://github.com/geyuqiu/jhipster-sample-app-quarkus) from [jhipster/jhipster-sample-app-quarkus](https://github.com/jhipster/jhipster-sample-app-quarkus)
+5. 📔 Created new repository [geyuqiu/react-workshop-exercises](https://github.com/geyuqiu/react-workshop-exercises)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
