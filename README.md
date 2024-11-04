@@ -102,15 +102,15 @@ Recently, I am working on private git repositories, that's where you may not see
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 4th, 2024, 1:41:08 AM
+Last Updated: Monday, November 4th, 2024, 1:43:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#364](https://github.com/jhipster/generator-jhipster-quarkus/issues/364) in [jhipster/generator-jhipster-quarkus](https://github.com/jhipster/generator-jhipster-quarkus)
-2. ❗️ Opened issue [#363](https://github.com/jhipster/generator-jhipster-quarkus/issues/363) in [jhipster/generator-jhipster-quarkus](https://github.com/jhipster/generator-jhipster-quarkus)
-3. ❗️ Opened issue [#18988](https://github.com/OpenAPITools/openapi-generator/issues/18988) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-4. 🔱 Forked [geyuqiu/jhipster-sample-app-quarkus](https://github.com/geyuqiu/jhipster-sample-app-quarkus) from [jhipster/jhipster-sample-app-quarkus](https://github.com/jhipster/jhipster-sample-app-quarkus)
-5. 📔 Created new repository [geyuqiu/react-workshop-exercises](https://github.com/geyuqiu/react-workshop-exercises)
+1. 📔 Created new repository [geyuqiu/yuqiuge.github.io](https://github.com/geyuqiu/yuqiuge.github.io)
+2. 📔 Created new repository [geyuqiu/react-exercise](https://github.com/geyuqiu/react-exercise)
+3. 📔 Created new repository [geyuqiu/geyuqiu.github.io.react-exercise](https://github.com/geyuqiu/geyuqiu.github.io.react-exercise)
+4. 📔 Created new repository [geyuqiu/geyuqiu.github.io](https://github.com/geyuqiu/geyuqiu.github.io)
+5. 📔 Created new repository [geyuqiu/react-exercise](https://github.com/geyuqiu/react-exercise)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
