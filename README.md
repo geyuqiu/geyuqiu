@@ -102,15 +102,15 @@ Recently, I am working on private git repositories, that's where you may not see
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 4th, 2025, 1:39:20 AM
+Last Updated: Tuesday, February 4th, 2025, 1:39:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [geyuqiu/yuqiuge.github.io](https://github.com/geyuqiu/yuqiuge.github.io)
-2. 📔 Created new repository [geyuqiu/react-exercise](https://github.com/geyuqiu/react-exercise)
-3. 📔 Created new repository [geyuqiu/geyuqiu.github.io.react-exercise](https://github.com/geyuqiu/geyuqiu.github.io.react-exercise)
-4. 📔 Created new repository [geyuqiu/geyuqiu.github.io](https://github.com/geyuqiu/geyuqiu.github.io)
-5. 📔 Created new repository [geyuqiu/react-exercise](https://github.com/geyuqiu/react-exercise)
+1. 📔 Created new repository [geyuqiu/csharpWorkshop](https://github.com/geyuqiu/csharpWorkshop)
+2. 📔 Created new repository [geyuqiu/react-workshop](https://github.com/geyuqiu/react-workshop)
+3. 📔 Created new repository [geyuqiu/react-card-game](https://github.com/geyuqiu/react-card-game)
+4. 📔 Created new repository [geyuqiu/react-redux-example](https://github.com/geyuqiu/react-redux-example)
+5. 📔 Created new repository [geyuqiu/react-exercise-2](https://github.com/geyuqiu/react-exercise-2)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
